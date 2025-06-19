@@ -1,22 +1,26 @@
 
 # Student Record Management System (Java)
 ## 📸 Screenshots
-![Add Student](Screenshots/add%20student1.png)
-![Add Student](Screenshots/add%20student2.png)
-![Add Student](Screenshots/add%20student3.png)
-![Add Student](Screenshots/add%20student4.png)
+## 📸 Screenshots
 
-📄 Search by ID Students  
-![Search by ID](Screenshots/search%20by%20id.png)
+### ➕ Add Student
+<img src="Screenshots/add%20student1.png" alt="Add Student 1" width="600"/>
+<img src="Screenshots/add%20student2.png" alt="Add Student 2" width="600"/>
+<img src="Screenshots/add%20student3.png" alt="Add Student 3" width="600"/>
+<img src="Screenshots/add%20student4.png" alt="Add Student 4" width="600"/>
 
-📄 Update Students  
-![Update Student](Screenshots/update%20student.png)
+### 📄 Search by ID
+<img src="Screenshots/search%20by%20id.png" alt="Search by ID" width="600"/>
 
-❌ Delete Student  
-![Delete Student](Screenshots/delete%20student.png)
+### 📝 Update Student
+<img src="Screenshots/update%20student.png" alt="Update Student" width="600"/>
 
-📄 View All Students  
-![View Students](Screenshots/final%20view%20all%20students.png)
+### ❌ Delete Student
+<img src="Screenshots/delete%20student.png" alt="Delete Student" width="600"/>
+
+### 📋 View All Students
+<img src="Screenshots/final%20view%20all%20students.png" alt="View All Students" width="600"/>
+
 
 
 A simple console-based CRUD application to manage student records.
